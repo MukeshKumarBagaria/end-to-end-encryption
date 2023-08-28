@@ -18,7 +18,7 @@ This file showcases the Elliptic Curve Diffie-Hellman (ECDH) key exchange algori
 This file demonstrates how to generate keys using ECDH and encrypt messages using AES-256.
 
 ## File 4: app.js
-
+![GCM- Galios/Counter Provides](screenshots/5.png)
 This file demonstrates end-to-end encryption using AES-256-GCM and ECDH. It showcases the confidentiality, integrity, and authenticity offered by GCM mode.
 
 
@@ -43,3 +43,18 @@ npm install
 npm start
 ```
 
+### Screenshots
+
+#### Screenshot 1: Working of diffie hellman(an symmetric algo. for encyption)
+![Screenshot 1](screenshots/1.png)
+
+#### Screenshot 2: Mathematically working of diffie hellman
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+
+#### Screenshot 3: symmetric encryption working
+![Screenshot 4](screenshots/4.png)
+
+
+
+<!-- Add more screenshots if needed -->
