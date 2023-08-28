@@ -9,7 +9,7 @@ In this repo we will use only the **crypto** module that is built inside nodejs.
 1. Clone the repo using
 
 ```bash
-git clone https://github.com/trulymittal/ECDH-AES-256-GCM.git
+git clone https://github.com/MukeshKumarBagaria/end-to-end-encryption.git
 ```
 
 2. Open terminal inside the downloaded project and install the dependencies using:
@@ -24,10 +24,3 @@ npm install
 npm start
 ```
 
-## Authors
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## License
-
-This project is licensed under the MIT License.
